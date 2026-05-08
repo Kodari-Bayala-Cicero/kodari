@@ -56,6 +56,12 @@
       margin-bottom: 3rem;
     }
 
+    .banner__logo img {
+     height: 85px;
+     margin-bottom: 0.5rem;
+     display: block;
+}
+
     .banner__logo span {
       display: block;
       font-size: 0.7rem;
